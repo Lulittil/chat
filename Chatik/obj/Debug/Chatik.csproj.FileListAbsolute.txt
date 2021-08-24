@@ -1,0 +1,10 @@
+C:\СТ911\Chatik\Chatik\bin\Debug\Chatik.exe.config
+C:\СТ911\Chatik\Chatik\bin\Debug\Chatik.exe
+C:\СТ911\Chatik\Chatik\bin\Debug\Chatik.pdb
+C:\СТ911\Chatik\Chatik\obj\Debug\Chatik.csprojAssemblyReference.cache
+C:\СТ911\Chatik\Chatik\obj\Debug\Chatik.Form1.resources
+C:\СТ911\Chatik\Chatik\obj\Debug\Chatik.Properties.Resources.resources
+C:\СТ911\Chatik\Chatik\obj\Debug\Chatik.csproj.GenerateResource.cache
+C:\СТ911\Chatik\Chatik\obj\Debug\Chatik.csproj.CoreCompileInputs.cache
+C:\СТ911\Chatik\Chatik\obj\Debug\Chatik.exe
+C:\СТ911\Chatik\Chatik\obj\Debug\Chatik.pdb
